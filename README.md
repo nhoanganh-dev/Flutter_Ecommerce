@@ -1,7 +1,7 @@
 # Thông tin cài đặt và sử dụng hệ thống
 
 **Nhóm thực hiện**: Trần Đỗ Khánh Minh - Lâm Nhật Hào - Nguyễn Hoàng Anh  
-**Môn học**: Phát triển ứng dụng di động đa nền tảng (HK2/2024-2025)  
+**Môn học**: Phát triển ứng dụng di động đa nền tảng
 **Giảng viên hướng dẫn**: Mai Văn Mạnh  
 
 ## Thông tin chung

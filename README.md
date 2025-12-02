@@ -2,6 +2,7 @@
 
 **Nhóm thực hiện**: Trần Đỗ Khánh Minh - Lâm Nhật Hào - Nguyễn Hoàng Anh  
 **Môn học**: Phát triển ứng dụng di động đa nền tảng
+
 **Giảng viên hướng dẫn**: Mai Văn Mạnh  
 
 ## Thông tin chung

@@ -1,16 +1,30 @@
-# ecommerce_app
+# Thông tin cài đặt và sử dụng hệ thống
 
-A new Flutter project.
+**Nhóm thực hiện**: Trần Đỗ Khánh Minh - Lâm Nhật Hào - Nguyễn Hoàng Anh  
+**Môn học**: Phát triển ứng dụng di động đa nền tảng (HK2/2024-2025)  
+**Giảng viên hướng dẫn**: Mai Văn Mạnh  
 
-## Getting Started
+## Thông tin chung
+- **Ngôn ngữ lập trình**: Dart
+- **Framework**: Flutter
+- **Nền tảng hỗ trợ**: Android, Web (Chrome)
+- **Trạng thái dự án**: Đã chạy `flutter clean` để làm sạch các file build trước khi nộp.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Hướng dẫn cài đặt và chạy dự án
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Web**: [https://ecommerce-app-96fda.firebaseapp.com/](https://ecommerce-app-96fda.firebaseapp.com/)
+- **Android**: Sử dụng file `.APK` trong thư mục `bin` -> Chỉ cần tải về và sử dụng!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Các bước cài đặt và chạy dự án
+
+#### Bước 1:
+Vào thư mục `Flutter_Ecommerce`.
+
+#### Bước 2:
+Tại thư mục `Flutter_Ecommerce`, mở Terminal (hoặc Command Line) và lần lượt chạy các lệnh sau:
+
+- **Kiểm tra cấu hình hệ thống Flutter**:
+  ```bash
+  flutter doctor

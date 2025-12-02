@@ -2,8 +2,9 @@
 
 **Nhóm thực hiện**: Trần Đỗ Khánh Minh - Lâm Nhật Hào - Nguyễn Hoàng Anh  
 **Môn học**: Phát triển ứng dụng di động đa nền tảng
-
+**link video demo**: https://drive.google.com/drive/folders/11KdKvi10cWFj4LYNjCwZ4S29Cqm_prWG
 **Giảng viên hướng dẫn**: Mai Văn Mạnh  
+
 
 ## Thông tin chung
 - **Ngôn ngữ lập trình**: Dart
